@@ -1,0 +1,105 @@
+{
+    "os": "Linux-6.0.12-76060006-generic-x86_64-with-glibc2.35",
+    "python": "3.10.6",
+    "heartbeatAt": "2023-01-09T21:11:35.868306",
+    "startedAt": "2023-01-09T21:11:35.058873",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/dkenez/Projects/dtu_mlops/s4_debugging_and_logging/exercise_files/wandb_tester.py",
+    "codePath": "s4_debugging_and_logging/exercise_files/wandb_tester.py",
+    "git": {
+        "remote": "https://github.com/dKenez/dtu_mlops/",
+        "commit": "7aa24612c374b2c81ebaab1ffbf7c1bfc34ebd0e"
+    },
+    "email": "47757462+dKenez@users.noreply.github.com",
+    "root": "/home/dkenez/Projects/dtu_mlops",
+    "host": "pop-os",
+    "username": "dkenez",
+    "executable": "/home/dkenez/.virtualenvs/MNIST/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2068.360416666667,
+        "min": 400.0,
+        "max": 4280.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2613.228,
+            "min": 400.0,
+            "max": 4280.0
+        },
+        {
+            "current": 400.0,
+            "min": 400.0,
+            "max": 4280.0
+        },
+        {
+            "current": 3404.422,
+            "min": 400.0,
+            "max": 4280.0
+        },
+        {
+            "current": 3319.017,
+            "min": 400.0,
+            "max": 4280.0
+        },
+        {
+            "current": 2050.514,
+            "min": 400.0,
+            "max": 4280.0
+        },
+        {
+            "current": 1477.427,
+            "min": 400.0,
+            "max": 4280.0
+        },
+        {
+            "current": 3045.005,
+            "min": 400.0,
+            "max": 4280.0
+        },
+        {
+            "current": 2097.367,
+            "min": 400.0,
+            "max": 4280.0
+        },
+        {
+            "current": 2845.544,
+            "min": 400.0,
+            "max": 4280.0
+        },
+        {
+            "current": 400.0,
+            "min": 400.0,
+            "max": 4280.0
+        },
+        {
+            "current": 2729.001,
+            "min": 400.0,
+            "max": 4280.0
+        },
+        {
+            "current": 438.8,
+            "min": 400.0,
+            "max": 4280.0
+        }
+    ],
+    "disk": {
+        "total": 127.03984451293945,
+        "used": 75.59679412841797
+    },
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 13.509857177734375
+    }
+}
