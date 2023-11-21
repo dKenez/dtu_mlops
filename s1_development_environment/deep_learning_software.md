@@ -6,8 +6,8 @@
 
 !!! info "Core Module"
 
-Deep learning have since its
-[revolution back in 2012](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
+Deep learning has, since its
+[revolution back in 2012](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html),
 transformed our lives. From Google Translate to driverless cars
 to personal assistants to protein engineering, deep learning is transforming nearly every sector of our economy and
 or lives. However, it did not take long before people realized that deep learning is not as simple beast to tame
