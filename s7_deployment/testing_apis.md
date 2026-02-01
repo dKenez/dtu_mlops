@@ -115,7 +115,7 @@ to change.
 
     ```bash
     pytest tests/apitests/test_apis.py
-ffffffff    ```
+    ```
 
     Make sure that all your tests pass.
 
